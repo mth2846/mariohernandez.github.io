@@ -1,6 +1,6 @@
 # Mario Hernandez — Mechanical Engineering Portfolio
 
-Live site: https://USERNAME.github.io
+Live site: https://mth2846.github.io/mariohernandez.github.io/
 
 Mechanical engineering portfolio — rocketry control systems, CFD and FEA,
 additive manufacturing research, and UAV / marine platform design.
